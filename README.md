@@ -6,6 +6,6 @@
 Adding symbolic links
 
 ``
-git clone git@github.com:rhargreaves/dot-files.git
+git clone git@github.com:emashliles/dotfiles.git
 ln -s dot-files/.tmux.conf .tmux.conf
 ``
